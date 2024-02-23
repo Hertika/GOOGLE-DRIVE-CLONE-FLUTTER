@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDBr95jsPAUk5Q_lmWxhFu-N1Cce4IJAp4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1009809943678</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.driveclone</string>
+	<key>PROJECT_ID</key>
+	<string>driveclone-7ea73</string>
+	<key>STORAGE_BUCKET</key>
+	<string>driveclone-7ea73.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1009809943678:ios:d468897e9e8c63e9fe7c2f</string>
+</dict>
+</plist>
